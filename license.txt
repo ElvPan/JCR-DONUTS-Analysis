@@ -1,0 +1,13 @@
+This work is licensed under a Creative Commons 
+Attribution-NonCommercial-NoDerivatives 4.0 International License.
+
+Full text of the license can be found at
+https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
+
+If using this code please cite the following papers:
+
+A. Ahmed-Cox et al, Spatial-temporal analysis of nanoparticles in live tumor spheroids impacted by cell origin and density, Journal of Controlled Release, 2021.
+
+
+The authors of this work do not own copyright for "inhull.m", "consolidator.m", "GetOMEData.m", "moving_average.m","DistMesh" package and '3D Feature Finding" suite.  
+Please see their source codes for the original licences. Please see the Acknowledge Script Authors document for full refernces to supposrting scripts. 
